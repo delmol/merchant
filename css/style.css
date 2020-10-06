@@ -1,0 +1,22 @@
+body{
+  background-color: #351201;
+}
+
+.container{
+  max-width: 900px;
+  background: #fff;
+  padding: 0;
+}
+
+.row{
+
+}
+
+.col{
+
+}
+
+.header{
+  background-color: #1c1c1c;
+  color: #fff;
+}
